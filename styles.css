@@ -1,0 +1,39 @@
+*{
+    margin:0 !important;
+    padding:0 !important;
+    box-sizing:border-box;
+}
+header {
+  background:#3E3C3C;
+}
+nav{ 
+  height:8vh;
+}
+
+.portfolio {
+  background: #1C1A19;
+  /* background-image: url('images/Illustration-header.png'); */
+  background-repeat: no-repeat;
+  background-size: 40%;
+  background-position: right;
+  height:95vh;
+  
+}
+.headline {
+  background-image: url('images/back.png');
+  background-color: bottom right;
+}
+
+.typo {
+  height:90vh;
+}
+.text-color {
+  color:#F55800;
+}
+
+.color {
+  background:#F55800;
+}
+.post {
+  background-image: url('images/back2.png');
+}
